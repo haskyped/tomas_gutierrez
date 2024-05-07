@@ -1,0 +1,22 @@
+/*IMPORTACION DE FUENTES*/
+@import url('https://fonts.googleapis.com/css2?family=Freeman&display=swap');
+
+/*pag_principal*/
+/*EFECTO FONDO INDEPENDIENTE DE LA PAGINA*/
+
+body{
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1400px;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+/*SUBTITULO(centrado)*/
+.sub_1{
+    align-items: center;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
